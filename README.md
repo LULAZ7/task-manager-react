@@ -28,7 +28,7 @@
 
   - Clone the repo by using the following to create a copy on your local machine:
 
-          - git@github.com:Musyoki-Wambua/task-manager-react.git
+          - git@github.com:LULAZ7/task-manager-react.git
 
   - Change directory to the repo folder:
 
